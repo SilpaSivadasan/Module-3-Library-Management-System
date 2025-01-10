@@ -20,12 +20,17 @@ Branch table :
 ![image](https://github.com/user-attachments/assets/179454eb-7f2f-4a8a-a8db-09dafb78f41f)
 Employee table :
 ![image](https://github.com/user-attachments/assets/2e750245-e3f8-413e-860c-66784532c6a1)
+
 Books table :
+
 ![image](https://github.com/user-attachments/assets/a6f8841a-2fdc-40ca-88ef-8a70e188e13e)
+
 Cutomer table :
 ![image](https://github.com/user-attachments/assets/3ba5322b-957a-42a1-9eb4-d0065d5dc656)
+
 IssueStatus Table:
 ![image](https://github.com/user-attachments/assets/9d5813bf-db61-4ca5-913b-68c042855f24)
+
 Return status table :
 ![image](https://github.com/user-attachments/assets/d52fcc0c-fffe-47ac-9f93-e878a2cde215)
 
